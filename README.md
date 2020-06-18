@@ -48,7 +48,7 @@ Text.txt:asdf Hello
 ```
 How about this [documentation](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/findstr) example?
 ```powershell
-findstr /c:hello there x.y
+findstr /c:hello there Text.txt
 ```
 Nope, again it doesn't work...
 
