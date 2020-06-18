@@ -1,6 +1,20 @@
 # FindString-for-CHAPS
 > An interview test implementation for CHAPS.
 
+# Solution overview
+## FindString
+- Core library 
+
+## FindStringApp
+- Client application as a console application
+
+## FindString.Tests
+- Project with UTs.
+
+## FindstrWrapper
+- A wrapper for Win32 application from Windows. 
+- Could be used for bug-compatible testing.
+
 # Problems with Findstr
 
 Let's run findstr agains this directory:
